@@ -1,1 +1,2 @@
 # LP-project
+theme:minima
